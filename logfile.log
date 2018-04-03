@@ -1,0 +1,480 @@
+City:hinabuyan, url:http://api.openweathermap.org/data/2.5/weather?lat=11.2383&lon=124.4047&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:kiprinos, url:http://api.openweathermap.org/data/2.5/weather?lat=41.5755556&lon=26.230555600000002&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:wakefield, url:http://api.openweathermap.org/data/2.5/weather?lat=53.7&lon=-1.483333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:cuanajo, url:http://api.openweathermap.org/data/2.5/weather?lat=19.483333&lon=-101.516667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:godec, url:http://api.openweathermap.org/data/2.5/weather?lat=43.015&lon=23.044166699999998&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:san isidro, url:http://api.openweathermap.org/data/2.5/weather?lat=9.977033&lon=-84.007743&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:levikha, url:http://api.openweathermap.org/data/2.5/weather?lat=57.583611&lon=59.900278&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:washington, url:http://api.openweathermap.org/data/2.5/weather?lat=37.1305556&lon=-113.5075&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:pavlovskiy posad, url:http://api.openweathermap.org/data/2.5/weather?lat=55.780713&lon=38.654475&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:tel mond, url:http://api.openweathermap.org/data/2.5/weather?lat=32.249947&lon=34.917367999999996&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:jurm, url:http://api.openweathermap.org/data/2.5/weather?lat=36.864768&lon=70.83420699999999&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:grevena, url:http://api.openweathermap.org/data/2.5/weather?lat=40.0833333&lon=21.4166667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:boyaca, url:http://api.openweathermap.org/data/2.5/weather?lat=5.453715&lon=-73.36249699999999&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:alpharetta, url:http://api.openweathermap.org/data/2.5/weather?lat=34.0752778&lon=-84.2941667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:hanover, url:http://api.openweathermap.org/data/2.5/weather?lat=52.366667&lon=9.716667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:kalashnikovo, url:http://api.openweathermap.org/data/2.5/weather?lat=57.28236999999999&lon=35.226172&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:racaciuni, url:http://api.openweathermap.org/data/2.5/weather?lat=46.333333&lon=26.983333000000002&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:asuaju de sus, url:http://api.openweathermap.org/data/2.5/weather?lat=47.566666999999995&lon=23.183332999999998&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:bharatpur, url:http://api.openweathermap.org/data/2.5/weather?lat=27.683333299999997&lon=84.4333333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:tvedestrand, url:http://api.openweathermap.org/data/2.5/weather?lat=58.624444&lon=8.928611&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:maposeni, url:http://api.openweathermap.org/data/2.5/weather?lat=-10.583333300000001&lon=35.4&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:lichtenfels, url:http://api.openweathermap.org/data/2.5/weather?lat=50.15&lon=11.066667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:vadso, url:http://api.openweathermap.org/data/2.5/weather?lat=70.07305600000001&lon=29.769721999999998&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:straza, url:http://api.openweathermap.org/data/2.5/weather?lat=45.78&lon=15.072777800000003&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:jablonne nad orlici, url:http://api.openweathermap.org/data/2.5/weather?lat=50.030388&lon=16.603926&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:zelezny brod, url:http://api.openweathermap.org/data/2.5/weather?lat=50.645106&lon=15.255258999999999&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:tevaitoa, url:http://api.openweathermap.org/data/2.5/weather?lat=-16.783333300000002&lon=-151.5&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:murici, url:http://api.openweathermap.org/data/2.5/weather?lat=-9.316667&lon=-35.933333000000005&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:alekseyevsk, url:http://api.openweathermap.org/data/2.5/weather?lat=57.835&lon=108.35611100000001&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:bryan, url:http://api.openweathermap.org/data/2.5/weather?lat=30.6741667&lon=-96.36972220000001&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:antas, url:http://api.openweathermap.org/data/2.5/weather?lat=41.736444&lon=-8.308882&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:villa constitucion, url:http://api.openweathermap.org/data/2.5/weather?lat=-33.227778&lon=-60.329699&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:nonantola, url:http://api.openweathermap.org/data/2.5/weather?lat=44.683333000000005&lon=11.033333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:annan, url:http://api.openweathermap.org/data/2.5/weather?lat=54.983332999999995&lon=-3.266667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:pribram, url:http://api.openweathermap.org/data/2.5/weather?lat=49.691355&lon=14.020575&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:kashkhatau, url:http://api.openweathermap.org/data/2.5/weather?lat=43.318484000000005&lon=43.60804&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:nochistlan, url:http://api.openweathermap.org/data/2.5/weather?lat=21.366667&lon=-102.85&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:santa cruz de tenerife, url:http://api.openweathermap.org/data/2.5/weather?lat=28.460238&lon=-16.280616000000002&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:visani, url:http://api.openweathermap.org/data/2.5/weather?lat=45.15&lon=27.283333000000002&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:fitchburg, url:http://api.openweathermap.org/data/2.5/weather?lat=42.5833333&lon=-71.80277779999999&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:campulung, url:http://api.openweathermap.org/data/2.5/weather?lat=45.266667&lon=25.05&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:undory, url:http://api.openweathermap.org/data/2.5/weather?lat=54.60849&lon=48.392756&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:mpophomeni, url:http://api.openweathermap.org/data/2.5/weather?lat=-29.568219&lon=30.186182000000002&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:zidlochovice, url:http://api.openweathermap.org/data/2.5/weather?lat=49.038068&lon=16.614826&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:cobadin, url:http://api.openweathermap.org/data/2.5/weather?lat=44.083333&lon=28.216666999999998&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:sulzbach, url:http://api.openweathermap.org/data/2.5/weather?lat=49.3&lon=7.066667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:kafr yuba, url:http://api.openweathermap.org/data/2.5/weather?lat=32.541922&lon=35.801895&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:lincent, url:http://api.openweathermap.org/data/2.5/weather?lat=50.716667&lon=5.033333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:pechory, url:http://api.openweathermap.org/data/2.5/weather?lat=57.815034&lon=27.607594&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:ouallam, url:http://api.openweathermap.org/data/2.5/weather?lat=14.316666699999999&lon=2.0833333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:ayni, url:http://api.openweathermap.org/data/2.5/weather?lat=39.3975&lon=68.5405556&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:trappes, url:http://api.openweathermap.org/data/2.5/weather?lat=48.774128999999995&lon=2.017811&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:busing, url:http://api.openweathermap.org/data/2.5/weather?lat=13.151389000000002&lon=122.97138899999999&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:caacupe, url:http://api.openweathermap.org/data/2.5/weather?lat=-25.383333&lon=-57.15&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:pakisaji, url:http://api.openweathermap.org/data/2.5/weather?lat=-8.0665&lon=112.5981&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:portadown, url:http://api.openweathermap.org/data/2.5/weather?lat=54.433333&lon=-6.45&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:nogueira da regedoura, url:http://api.openweathermap.org/data/2.5/weather?lat=41.005301&lon=-8.591953&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:rind, url:http://api.openweathermap.org/data/2.5/weather?lat=39.7597222&lon=45.18&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:zamora, url:http://api.openweathermap.org/data/2.5/weather?lat=-4.0691667&lon=-78.9566667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:santa maria, url:http://api.openweathermap.org/data/2.5/weather?lat=14.4719&lon=121.4286&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:kalundborg, url:http://api.openweathermap.org/data/2.5/weather?lat=55.681984&lon=11.100425999999999&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:talisay, url:http://api.openweathermap.org/data/2.5/weather?lat=10.7375&lon=122.9666&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:tchollire, url:http://api.openweathermap.org/data/2.5/weather?lat=8.4&lon=14.166666699999999&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:sellye, url:http://api.openweathermap.org/data/2.5/weather?lat=45.872468&lon=17.84711&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:corat, url:http://api.openweathermap.org/data/2.5/weather?lat=40.5725&lon=49.706389&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:baltasi, url:http://api.openweathermap.org/data/2.5/weather?lat=56.3462&lon=50.2062&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:rio do sul, url:http://api.openweathermap.org/data/2.5/weather?lat=-27.2181&lon=-49.6436&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:vasai, url:http://api.openweathermap.org/data/2.5/weather?lat=19.35&lon=72.8&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:salgado, url:http://api.openweathermap.org/data/2.5/weather?lat=-11.033333&lon=-37.466667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:vinderup, url:http://api.openweathermap.org/data/2.5/weather?lat=56.475147&lon=8.790811&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:banov, url:http://api.openweathermap.org/data/2.5/weather?lat=48.988364000000004&lon=17.721403&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:cessnock, url:http://api.openweathermap.org/data/2.5/weather?lat=-32.832111&lon=151.356232&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:betwagan, url:http://api.openweathermap.org/data/2.5/weather?lat=17.083333&lon=120.96666699999999&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:capaci, url:http://api.openweathermap.org/data/2.5/weather?lat=38.166667&lon=13.233332999999998&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:san bartolome de tirajana, url:http://api.openweathermap.org/data/2.5/weather?lat=27.923672999999997&lon=-15.573557000000001&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:baguinge, url:http://api.openweathermap.org/data/2.5/weather?lat=16.777666&lon=121.106241&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:clermont, url:http://api.openweathermap.org/data/2.5/weather?lat=49.380338&lon=2.411622&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:miguel alves, url:http://api.openweathermap.org/data/2.5/weather?lat=-4.1666669999999995&lon=-42.9&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:kaimganj, url:http://api.openweathermap.org/data/2.5/weather?lat=27.566667&lon=79.35&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:bagula, url:http://api.openweathermap.org/data/2.5/weather?lat=23.316667000000002&lon=88.65&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:ramsi, url:http://api.openweathermap.org/data/2.5/weather?lat=58.305833299999996&lon=25.535277800000003&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:pili, url:http://api.openweathermap.org/data/2.5/weather?lat=11.1196&lon=123.0147&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:korostarcsa, url:http://api.openweathermap.org/data/2.5/weather?lat=46.883333&lon=21.033333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:boryslav, url:http://api.openweathermap.org/data/2.5/weather?lat=49.28672&lon=23.43238&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:tasco, url:http://api.openweathermap.org/data/2.5/weather?lat=5.910443&lon=-72.780012&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:lampa, url:http://api.openweathermap.org/data/2.5/weather?lat=-33.283333&lon=-70.9&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:yabassi, url:http://api.openweathermap.org/data/2.5/weather?lat=4.454444400000001&lon=9.9655556&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:agua dulcita, url:http://api.openweathermap.org/data/2.5/weather?lat=14.7&lon=-87.75&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:pinosava, url:http://api.openweathermap.org/data/2.5/weather?lat=44.695278&lon=20.480832999999997&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:mikhaylovka, url:http://api.openweathermap.org/data/2.5/weather?lat=52.9589&lon=103.2846&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:dmitriyevka, url:http://api.openweathermap.org/data/2.5/weather?lat=54.448661&lon=55.193746&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:draguseni, url:http://api.openweathermap.org/data/2.5/weather?lat=45.966667&lon=27.75&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:chattanooga, url:http://api.openweathermap.org/data/2.5/weather?lat=35.04555560000001&lon=-85.30972220000001&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:hooglede, url:http://api.openweathermap.org/data/2.5/weather?lat=50.983333&lon=3.083333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:tambov, url:http://api.openweathermap.org/data/2.5/weather?lat=52.731689&lon=41.443262&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:keetmanshoop, url:http://api.openweathermap.org/data/2.5/weather?lat=-26.5833333&lon=18.1333333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:calinesti, url:http://api.openweathermap.org/data/2.5/weather?lat=47.783333&lon=23.983333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:tajumulco, url:http://api.openweathermap.org/data/2.5/weather?lat=15.083332999999998&lon=-91.883333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:indaial, url:http://api.openweathermap.org/data/2.5/weather?lat=-26.8922&lon=-49.2239&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:virtsu, url:http://api.openweathermap.org/data/2.5/weather?lat=58.57&lon=23.5238889&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:vasylivka, url:http://api.openweathermap.org/data/2.5/weather?lat=47.436944&lon=35.274167&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:policarpa, url:http://api.openweathermap.org/data/2.5/weather?lat=1.632313&lon=-77.461988&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:sarka ghat, url:http://api.openweathermap.org/data/2.5/weather?lat=31.7&lon=76.733333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:ruangwa, url:http://api.openweathermap.org/data/2.5/weather?lat=-10.066666699999999&lon=38.9333333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:calinesti-oas, url:http://api.openweathermap.org/data/2.5/weather?lat=47.9&lon=23.3&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:argentan, url:http://api.openweathermap.org/data/2.5/weather?lat=48.745175&lon=-0.018062&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:zhicheng, url:http://api.openweathermap.org/data/2.5/weather?lat=27.046944&lon=118.325278&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:naranjos, url:http://api.openweathermap.org/data/2.5/weather?lat=21.35&lon=-97.68333299999999&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:chervone, url:http://api.openweathermap.org/data/2.5/weather?lat=49.956429&lon=28.864534000000003&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:nuevo arraijan, url:http://api.openweathermap.org/data/2.5/weather?lat=8.916666699999999&lon=-79.7166667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:lognes, url:http://api.openweathermap.org/data/2.5/weather?lat=48.835407000000004&lon=2.6299799999999998&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:konstantinovo, url:http://api.openweathermap.org/data/2.5/weather?lat=56.55&lon=38.033333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:liminangcong, url:http://api.openweathermap.org/data/2.5/weather?lat=10.9893&lon=119.3593&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:mainburg, url:http://api.openweathermap.org/data/2.5/weather?lat=48.65&lon=11.783333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:hranice, url:http://api.openweathermap.org/data/2.5/weather?lat=50.303473&lon=12.17667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:etawah, url:http://api.openweathermap.org/data/2.5/weather?lat=26.7769&lon=79.0239&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:samarinda, url:http://api.openweathermap.org/data/2.5/weather?lat=-0.5&lon=117.15&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:odivelas, url:http://api.openweathermap.org/data/2.5/weather?lat=38.795234&lon=-9.187387&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:aachen, url:http://api.openweathermap.org/data/2.5/weather?lat=50.770833&lon=6.105278&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:tlaixpan, url:http://api.openweathermap.org/data/2.5/weather?lat=18.9&lon=-97.733333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:samarate, url:http://api.openweathermap.org/data/2.5/weather?lat=45.633333&lon=8.783333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:mauraro, url:http://api.openweathermap.org/data/2.5/weather?lat=13.1494&lon=123.5953&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:bafq, url:http://api.openweathermap.org/data/2.5/weather?lat=31.612833000000002&lon=55.410666000000006&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:newburgh, url:http://api.openweathermap.org/data/2.5/weather?lat=57.3&lon=-2.0&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:letohrad, url:http://api.openweathermap.org/data/2.5/weather?lat=50.035969&lon=16.496682999999997&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:tarboro, url:http://api.openweathermap.org/data/2.5/weather?lat=35.896666700000004&lon=-77.53611109999999&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:castellammare di stabia, url:http://api.openweathermap.org/data/2.5/weather?lat=40.7&lon=14.483332999999998&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:lugde, url:http://api.openweathermap.org/data/2.5/weather?lat=51.95&lon=9.25&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:dubrovnik, url:http://api.openweathermap.org/data/2.5/weather?lat=42.650555600000004&lon=18.0913889&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:leek, url:http://api.openweathermap.org/data/2.5/weather?lat=53.162932&lon=6.371626999999999&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:dalbeattie, url:http://api.openweathermap.org/data/2.5/weather?lat=54.933333&lon=-3.833333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:campamento, url:http://api.openweathermap.org/data/2.5/weather?lat=6.979196000000001&lon=-75.297235&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:hirara, url:http://api.openweathermap.org/data/2.5/weather?lat=24.803788&lon=125.302222&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:pedernales, url:http://api.openweathermap.org/data/2.5/weather?lat=19.133333&lon=-101.466667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:chaihe, url:http://api.openweathermap.org/data/2.5/weather?lat=44.766667&lon=129.7&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:champua, url:http://api.openweathermap.org/data/2.5/weather?lat=22.083333&lon=85.666667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:zvoristea, url:http://api.openweathermap.org/data/2.5/weather?lat=47.833333&lon=26.283333000000002&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:teterow, url:http://api.openweathermap.org/data/2.5/weather?lat=53.783333&lon=12.566667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:bussum, url:http://api.openweathermap.org/data/2.5/weather?lat=52.2655&lon=5.1793569999999995&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:buguias, url:http://api.openweathermap.org/data/2.5/weather?lat=16.722672&lon=120.828341&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:sulejowek, url:http://api.openweathermap.org/data/2.5/weather?lat=52.246122&lon=21.280447&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:bialystok, url:http://api.openweathermap.org/data/2.5/weather?lat=53.13333299999999&lon=23.15&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:tipp city, url:http://api.openweathermap.org/data/2.5/weather?lat=39.9583333&lon=-84.17222220000001&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:likhoslavl, url:http://api.openweathermap.org/data/2.5/weather?lat=57.12746800000001&lon=35.464037&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:unidos, url:http://api.openweathermap.org/data/2.5/weather?lat=11.906773&lon=122.00051&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:panevezys, url:http://api.openweathermap.org/data/2.5/weather?lat=55.7333333&lon=24.35&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:nefteyugansk, url:http://api.openweathermap.org/data/2.5/weather?lat=61.083332999999996&lon=72.7&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:kolpino, url:http://api.openweathermap.org/data/2.5/weather?lat=59.744167000000004&lon=30.579444&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:aioi, url:http://api.openweathermap.org/data/2.5/weather?lat=34.803611&lon=134.46805600000002&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:hoghiz, url:http://api.openweathermap.org/data/2.5/weather?lat=45.983333&lon=25.3&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:puksoozero, url:http://api.openweathermap.org/data/2.5/weather?lat=62.5903&lon=40.6066&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:santa rosa, url:http://api.openweathermap.org/data/2.5/weather?lat=13.5402&lon=122.3912&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:ruzsa, url:http://api.openweathermap.org/data/2.5/weather?lat=46.288057&lon=19.747137&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:san martin de hidalgo, url:http://api.openweathermap.org/data/2.5/weather?lat=20.45&lon=-103.95&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:kirra, url:http://api.openweathermap.org/data/2.5/weather?lat=38.4333333&lon=22.45&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:alice springs, url:http://api.openweathermap.org/data/2.5/weather?lat=-23.697479&lon=133.883621&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:springfield, url:http://api.openweathermap.org/data/2.5/weather?lat=38.7891667&lon=-77.1875&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:cornelius, url:http://api.openweathermap.org/data/2.5/weather?lat=45.52&lon=-123.05861110000001&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:pasir gudang, url:http://api.openweathermap.org/data/2.5/weather?lat=1.462&lon=103.9053&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:huauchinango, url:http://api.openweathermap.org/data/2.5/weather?lat=20.183332999999998&lon=-98.05&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:paceco, url:http://api.openweathermap.org/data/2.5/weather?lat=37.983333&lon=12.55&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:yaounde, url:http://api.openweathermap.org/data/2.5/weather?lat=3.8666667&lon=11.516666699999998&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:quebo, url:http://api.openweathermap.org/data/2.5/weather?lat=11.333333300000001&lon=-14.933333300000001&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:jiran, url:http://api.openweathermap.org/data/2.5/weather?lat=24.316667000000002&lon=74.883333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:borovoy, url:http://api.openweathermap.org/data/2.5/weather?lat=55.433333&lon=86.083333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:springfield, url:http://api.openweathermap.org/data/2.5/weather?lat=42.101388899999996&lon=-72.5902778&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:shaki, url:http://api.openweathermap.org/data/2.5/weather?lat=8.666667&lon=3.3833330000000004&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:nibbar, url:http://api.openweathermap.org/data/2.5/weather?lat=36.294109000000006&lon=8.766568&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:qibili, url:http://api.openweathermap.org/data/2.5/weather?lat=33.704387&lon=8.969033999999999&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:dalianwan, url:http://api.openweathermap.org/data/2.5/weather?lat=39.008611&lon=121.715833&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:velika obarska, url:http://api.openweathermap.org/data/2.5/weather?lat=44.8052778&lon=19.1641667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:venustiano carranza, url:http://api.openweathermap.org/data/2.5/weather?lat=16.35&lon=-92.55&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:naihati, url:http://api.openweathermap.org/data/2.5/weather?lat=22.902778&lon=88.416944&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:nsanje, url:http://api.openweathermap.org/data/2.5/weather?lat=-16.9166667&lon=35.2666667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:castellanza, url:http://api.openweathermap.org/data/2.5/weather?lat=45.616667&lon=8.9&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:uglyanets, url:http://api.openweathermap.org/data/2.5/weather?lat=51.819078999999995&lon=39.596059999999994&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:safi, url:http://api.openweathermap.org/data/2.5/weather?lat=35.833056&lon=14.484722&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:benin, url:http://api.openweathermap.org/data/2.5/weather?lat=6.335045&lon=5.627492&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:nedryhayliv, url:http://api.openweathermap.org/data/2.5/weather?lat=50.83398&lon=33.876256&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:phirangipuram, url:http://api.openweathermap.org/data/2.5/weather?lat=16.3&lon=80.266667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:valkenburg, url:http://api.openweathermap.org/data/2.5/weather?lat=50.864835&lon=5.827774&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:peso da regua, url:http://api.openweathermap.org/data/2.5/weather?lat=41.164912&lon=-7.787033999999999&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:sao domingos do prata, url:http://api.openweathermap.org/data/2.5/weather?lat=-19.866667&lon=-42.966667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:siruguppa, url:http://api.openweathermap.org/data/2.5/weather?lat=15.633332999999999&lon=76.9&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:viby, url:http://api.openweathermap.org/data/2.5/weather?lat=55.548724&lon=12.023912&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:seriate, url:http://api.openweathermap.org/data/2.5/weather?lat=45.683333000000005&lon=9.716667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:watford, url:http://api.openweathermap.org/data/2.5/weather?lat=42.95&lon=-81.883333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:jangaon, url:http://api.openweathermap.org/data/2.5/weather?lat=17.5975&lon=78.876111&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:ho, url:http://api.openweathermap.org/data/2.5/weather?lat=6.6&lon=0.46666670000000005&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:potomac, url:http://api.openweathermap.org/data/2.5/weather?lat=39.018055600000004&lon=-77.2088889&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:beypur, url:http://api.openweathermap.org/data/2.5/weather?lat=11.183333&lon=75.81666700000001&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:salcedo, url:http://api.openweathermap.org/data/2.5/weather?lat=11.146944&lon=125.665&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:knurow, url:http://api.openweathermap.org/data/2.5/weather?lat=50.219708000000004&lon=18.65067&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:silab, url:http://api.openweathermap.org/data/2.5/weather?lat=9.4383&lon=123.1792&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:santo domingo, url:http://api.openweathermap.org/data/2.5/weather?lat=16.0605&lon=120.6405&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:hastinapur, url:http://api.openweathermap.org/data/2.5/weather?lat=29.166666999999997&lon=78.016667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:waltershausen, url:http://api.openweathermap.org/data/2.5/weather?lat=50.9&lon=10.566667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:valea mare, url:http://api.openweathermap.org/data/2.5/weather?lat=45.766667&lon=26.0&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:sao sebastiao, url:http://api.openweathermap.org/data/2.5/weather?lat=-23.8&lon=-45.416667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:lyantonde, url:http://api.openweathermap.org/data/2.5/weather?lat=-0.40305559999999996&lon=31.1572222&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:nurlat, url:http://api.openweathermap.org/data/2.5/weather?lat=54.427665000000005&lon=50.805109&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:naguilian, url:http://api.openweathermap.org/data/2.5/weather?lat=17.023147&lon=121.837043&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:sonepur, url:http://api.openweathermap.org/data/2.5/weather?lat=20.833333&lon=83.916667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:skuodas, url:http://api.openweathermap.org/data/2.5/weather?lat=56.2666667&lon=21.533333300000002&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:linlithgow, url:http://api.openweathermap.org/data/2.5/weather?lat=55.889081999999995&lon=-3.5694190000000003&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:seini, url:http://api.openweathermap.org/data/2.5/weather?lat=47.75&lon=23.283333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:skutec, url:http://api.openweathermap.org/data/2.5/weather?lat=49.842468&lon=15.994781&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:temple city, url:http://api.openweathermap.org/data/2.5/weather?lat=34.1072222&lon=-118.05694440000002&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:mantes-la-jolie, url:http://api.openweathermap.org/data/2.5/weather?lat=48.990163&lon=1.70792&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:brad, url:http://api.openweathermap.org/data/2.5/weather?lat=46.133333&lon=22.783333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:ostrov, url:http://api.openweathermap.org/data/2.5/weather?lat=44.933333000000005&lon=28.15&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:nonantola, url:http://api.openweathermap.org/data/2.5/weather?lat=44.683333000000005&lon=11.033333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:dedougou, url:http://api.openweathermap.org/data/2.5/weather?lat=12.4666667&lon=-3.4666667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:bechet, url:http://api.openweathermap.org/data/2.5/weather?lat=43.766667&lon=23.95&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:msida, url:http://api.openweathermap.org/data/2.5/weather?lat=35.8925&lon=14.482778&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:coloncito, url:http://api.openweathermap.org/data/2.5/weather?lat=8.566666699999999&lon=-79.9&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:naro, url:http://api.openweathermap.org/data/2.5/weather?lat=37.3&lon=13.783332999999999&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:birjand, url:http://api.openweathermap.org/data/2.5/weather?lat=32.866277000000004&lon=59.221139&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:jaguimitan, url:http://api.openweathermap.org/data/2.5/weather?lat=11.1422&lon=122.6897&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:ojo de agua, url:http://api.openweathermap.org/data/2.5/weather?lat=14.016666699999998&lon=-86.35&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:mabaruma, url:http://api.openweathermap.org/data/2.5/weather?lat=8.2&lon=-59.783333299999995&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:tila, url:http://api.openweathermap.org/data/2.5/weather?lat=17.4&lon=-92.483333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:misato, url:http://api.openweathermap.org/data/2.5/weather?lat=35.860597&lon=139.864486&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:kumluca, url:http://api.openweathermap.org/data/2.5/weather?lat=36.370278000000006&lon=30.286944000000002&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:cherkessk, url:http://api.openweathermap.org/data/2.5/weather?lat=44.223333000000004&lon=42.057778000000006&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:monza, url:http://api.openweathermap.org/data/2.5/weather?lat=45.583333&lon=9.266667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:lake elsinore, url:http://api.openweathermap.org/data/2.5/weather?lat=33.6680556&lon=-117.3263889&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:jicayan, url:http://api.openweathermap.org/data/2.5/weather?lat=16.416667&lon=-97.983333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:uthai thani, url:http://api.openweathermap.org/data/2.5/weather?lat=15.379389000000002&lon=100.0245&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:luncoiu de jos, url:http://api.openweathermap.org/data/2.5/weather?lat=46.1&lon=22.766667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:conyers, url:http://api.openweathermap.org/data/2.5/weather?lat=33.6675&lon=-84.01777779999999&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:ostuncalco, url:http://api.openweathermap.org/data/2.5/weather?lat=14.866667000000001&lon=-91.616667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:mucsony, url:http://api.openweathermap.org/data/2.5/weather?lat=48.266667&lon=20.683332999999998&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:teziutlan, url:http://api.openweathermap.org/data/2.5/weather?lat=19.816667000000002&lon=-97.35&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:zacatepec, url:http://api.openweathermap.org/data/2.5/weather?lat=18.65&lon=-99.2&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:fort dix, url:http://api.openweathermap.org/data/2.5/weather?lat=40.0297222&lon=-74.6188889&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:capim grosso, url:http://api.openweathermap.org/data/2.5/weather?lat=-11.366667&lon=-40.016667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:konnur, url:http://api.openweathermap.org/data/2.5/weather?lat=16.2&lon=74.75&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:oka, url:http://api.openweathermap.org/data/2.5/weather?lat=7.4254240000000005&lon=5.919206&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:namatanai, url:http://api.openweathermap.org/data/2.5/weather?lat=-3.6666667&lon=152.43333330000002&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:nurpur, url:http://api.openweathermap.org/data/2.5/weather?lat=31.166666999999997&lon=76.483333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:guara, url:http://api.openweathermap.org/data/2.5/weather?lat=-20.433332999999998&lon=-47.833333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:nagercoil, url:http://api.openweathermap.org/data/2.5/weather?lat=8.193889&lon=77.431389&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:basavana bagevadi, url:http://api.openweathermap.org/data/2.5/weather?lat=16.583333&lon=75.966667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:sarbi, url:http://api.openweathermap.org/data/2.5/weather?lat=47.183333000000005&lon=22.133333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:solon, url:http://api.openweathermap.org/data/2.5/weather?lat=41.3897222&lon=-81.4413889&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:santa teresa, url:http://api.openweathermap.org/data/2.5/weather?lat=10.585461&lon=122.56040300000001&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:parkhill, url:http://api.openweathermap.org/data/2.5/weather?lat=43.166667&lon=-81.68333299999999&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:brook park, url:http://api.openweathermap.org/data/2.5/weather?lat=41.3983333&lon=-81.8047222&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:nueva florida, url:http://api.openweathermap.org/data/2.5/weather?lat=15.4666667&lon=-87.5&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:kilinochchi, url:http://api.openweathermap.org/data/2.5/weather?lat=9.4&lon=80.4&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:mishan, url:http://api.openweathermap.org/data/2.5/weather?lat=45.543056&lon=131.88222199999998&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:florida, url:http://api.openweathermap.org/data/2.5/weather?lat=15.0333333&lon=-88.83333329999999&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:horbranz, url:http://api.openweathermap.org/data/2.5/weather?lat=47.55&lon=9.75&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:suwannaphum, url:http://api.openweathermap.org/data/2.5/weather?lat=15.60348&lon=103.80206700000001&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:sapernyy, url:http://api.openweathermap.org/data/2.5/weather?lat=59.776111&lon=30.661389&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:dinant, url:http://api.openweathermap.org/data/2.5/weather?lat=50.266667&lon=4.9166669999999995&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:moth, url:http://api.openweathermap.org/data/2.5/weather?lat=25.716667&lon=78.95&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:plaridel, url:http://api.openweathermap.org/data/2.5/weather?lat=8.6214&lon=123.7101&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:warud, url:http://api.openweathermap.org/data/2.5/weather?lat=21.466667&lon=78.266667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:heimberg, url:http://api.openweathermap.org/data/2.5/weather?lat=46.794824&lon=7.604332&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:goreloye, url:http://api.openweathermap.org/data/2.5/weather?lat=52.936971&lon=41.504352000000004&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:polis, url:http://api.openweathermap.org/data/2.5/weather?lat=35.036666700000005&lon=32.4263889&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:trojas, url:http://api.openweathermap.org/data/2.5/weather?lat=15.35&lon=-86.7&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:laurel, url:http://api.openweathermap.org/data/2.5/weather?lat=14.055419&lon=120.919316&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:shorkot, url:http://api.openweathermap.org/data/2.5/weather?lat=31.909907&lon=70.877409&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:verkhnyaya inta, url:http://api.openweathermap.org/data/2.5/weather?lat=66.083333&lon=60.516667000000005&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:spoleto, url:http://api.openweathermap.org/data/2.5/weather?lat=42.733333&lon=12.733333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:nahef, url:http://api.openweathermap.org/data/2.5/weather?lat=32.933333000000005&lon=35.316666999999995&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:alcala, url:http://api.openweathermap.org/data/2.5/weather?lat=15.847222&lon=120.52416699999999&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:kirchen, url:http://api.openweathermap.org/data/2.5/weather?lat=50.8&lon=7.883333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:ust-abakan, url:http://api.openweathermap.org/data/2.5/weather?lat=53.8525&lon=91.374167&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:ticleni, url:http://api.openweathermap.org/data/2.5/weather?lat=44.883333&lon=23.4&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:aregua, url:http://api.openweathermap.org/data/2.5/weather?lat=-25.3&lon=-57.416667000000004&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:sili, url:http://api.openweathermap.org/data/2.5/weather?lat=-13.7166667&lon=-172.35&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:betzdorf, url:http://api.openweathermap.org/data/2.5/weather?lat=50.783333&lon=7.883333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:rochester, url:http://api.openweathermap.org/data/2.5/weather?lat=51.383333&lon=0.516667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:basiad, url:http://api.openweathermap.org/data/2.5/weather?lat=14.156173999999998&lon=122.33748700000001&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:basseterre, url:http://api.openweathermap.org/data/2.5/weather?lat=17.3&lon=-62.716666700000005&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:poeni, url:http://api.openweathermap.org/data/2.5/weather?lat=44.4&lon=25.333333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:macapa, url:http://api.openweathermap.org/data/2.5/weather?lat=0.033333&lon=-51.05&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:lejamani, url:http://api.openweathermap.org/data/2.5/weather?lat=14.366666699999998&lon=-87.7&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:ponta do sol, url:http://api.openweathermap.org/data/2.5/weather?lat=17.2&lon=-25.1&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:coolidge, url:http://api.openweathermap.org/data/2.5/weather?lat=32.9777778&lon=-111.51694440000001&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:ngawen, url:http://api.openweathermap.org/data/2.5/weather?lat=-7.834722&lon=110.685556&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:rio grande, url:http://api.openweathermap.org/data/2.5/weather?lat=18.382222199999998&lon=-65.8316667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:reidsville, url:http://api.openweathermap.org/data/2.5/weather?lat=36.3547222&lon=-79.6647222&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:buenavista, url:http://api.openweathermap.org/data/2.5/weather?lat=10.1776&lon=123.6013&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:tapioszentmarton, url:http://api.openweathermap.org/data/2.5/weather?lat=47.3399&lon=19.746478&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:old bridge, url:http://api.openweathermap.org/data/2.5/weather?lat=40.4147222&lon=-74.36583329999999&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:north saint paul, url:http://api.openweathermap.org/data/2.5/weather?lat=45.0125&lon=-92.9916667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:volpago del montello, url:http://api.openweathermap.org/data/2.5/weather?lat=45.783333&lon=12.116667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:levittown, url:http://api.openweathermap.org/data/2.5/weather?lat=40.155&lon=-74.8291667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:untsukul, url:http://api.openweathermap.org/data/2.5/weather?lat=42.711488&lon=46.786628&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:kumluca, url:http://api.openweathermap.org/data/2.5/weather?lat=36.370278000000006&lon=30.286944000000002&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:arandelovac, url:http://api.openweathermap.org/data/2.5/weather?lat=44.306944&lon=20.56&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:angad, url:http://api.openweathermap.org/data/2.5/weather?lat=17.5849&lon=120.6257&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:san agustin, url:http://api.openweathermap.org/data/2.5/weather?lat=20.533333&lon=-103.466667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:commerce city, url:http://api.openweathermap.org/data/2.5/weather?lat=39.8083333&lon=-104.93333329999999&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:antunez, url:http://api.openweathermap.org/data/2.5/weather?lat=19.016667&lon=-102.2&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:suwanee, url:http://api.openweathermap.org/data/2.5/weather?lat=34.0513889&lon=-84.0713889&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:chinchani, url:http://api.openweathermap.org/data/2.5/weather?lat=19.866667&lon=72.7&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:santa maria di sala, url:http://api.openweathermap.org/data/2.5/weather?lat=45.506944&lon=12.029722&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:bilisht, url:http://api.openweathermap.org/data/2.5/weather?lat=40.6275&lon=20.99&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:thornaby, url:http://api.openweathermap.org/data/2.5/weather?lat=54.533333&lon=-1.3&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:gamut, url:http://api.openweathermap.org/data/2.5/weather?lat=9.004444&lon=126.169722&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:pueblo nuevo vinas, url:http://api.openweathermap.org/data/2.5/weather?lat=14.225832999999998&lon=-90.47416700000001&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:naziya, url:http://api.openweathermap.org/data/2.5/weather?lat=59.8&lon=31.383333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:goppingen, url:http://api.openweathermap.org/data/2.5/weather?lat=48.7&lon=9.666667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:bishop auckland, url:http://api.openweathermap.org/data/2.5/weather?lat=54.65&lon=-1.666667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:essex, url:http://api.openweathermap.org/data/2.5/weather?lat=42.166667&lon=-82.81666700000001&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:malaya, url:http://api.openweathermap.org/data/2.5/weather?lat=14.3971&lon=121.3385&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:lepenou, url:http://api.openweathermap.org/data/2.5/weather?lat=38.7&lon=21.283333300000002&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:jacala, url:http://api.openweathermap.org/data/2.5/weather?lat=21.016667&lon=-99.18333299999999&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:harare, url:http://api.openweathermap.org/data/2.5/weather?lat=-17.8177778&lon=31.044722200000002&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:guangyuan, url:http://api.openweathermap.org/data/2.5/weather?lat=32.442015000000005&lon=105.82299599999999&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:majdanpek, url:http://api.openweathermap.org/data/2.5/weather?lat=44.424444&lon=21.935833&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:muktsar, url:http://api.openweathermap.org/data/2.5/weather?lat=30.483333000000002&lon=74.516667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:poienesti, url:http://api.openweathermap.org/data/2.5/weather?lat=46.616667&lon=27.533333000000002&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:cortland, url:http://api.openweathermap.org/data/2.5/weather?lat=42.601111100000004&lon=-76.1808333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:eidfjord, url:http://api.openweathermap.org/data/2.5/weather?lat=60.466667&lon=7.0833330000000005&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:thale, url:http://api.openweathermap.org/data/2.5/weather?lat=51.75&lon=11.05&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:tarare, url:http://api.openweathermap.org/data/2.5/weather?lat=45.897614000000004&lon=4.432722&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:gilsdorf, url:http://api.openweathermap.org/data/2.5/weather?lat=49.866944399999994&lon=6.1825&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:ozorkow, url:http://api.openweathermap.org/data/2.5/weather?lat=51.962778&lon=19.295112&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:oktyabrskiy, url:http://api.openweathermap.org/data/2.5/weather?lat=59.443512&lon=48.905124&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:yantarnyy, url:http://api.openweathermap.org/data/2.5/weather?lat=54.871023&lon=19.940157&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:agrigento, url:http://api.openweathermap.org/data/2.5/weather?lat=37.316666999999995&lon=13.566667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:ciuruleasa, url:http://api.openweathermap.org/data/2.5/weather?lat=46.25&lon=23.033333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:otta, url:http://api.openweathermap.org/data/2.5/weather?lat=61.766667000000005&lon=9.533333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:cota, url:http://api.openweathermap.org/data/2.5/weather?lat=4.809384&lon=-74.098001&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:tonekabon, url:http://api.openweathermap.org/data/2.5/weather?lat=36.816259&lon=50.873763000000004&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:cluses, url:http://api.openweathermap.org/data/2.5/weather?lat=46.064816&lon=6.588355&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:stalskoye, url:http://api.openweathermap.org/data/2.5/weather?lat=43.187036&lon=46.971334999999996&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:elblag, url:http://api.openweathermap.org/data/2.5/weather?lat=54.1522&lon=19.408841&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:ponte, url:http://api.openweathermap.org/data/2.5/weather?lat=41.470566&lon=-8.329895&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:forecariah, url:http://api.openweathermap.org/data/2.5/weather?lat=9.4305556&lon=-13.0880556&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:cypress gardens, url:http://api.openweathermap.org/data/2.5/weather?lat=27.993611100000003&lon=-81.69027779999999&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:hawthorne, url:http://api.openweathermap.org/data/2.5/weather?lat=40.9491667&lon=-74.1541667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:tiwi, url:http://api.openweathermap.org/data/2.5/weather?lat=10.929722&lon=122.734167&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:malainen luma, url:http://api.openweathermap.org/data/2.5/weather?lat=14.270303&lon=120.788398&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:cannington, url:http://api.openweathermap.org/data/2.5/weather?lat=44.35&lon=-79.033333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:kivsharivka, url:http://api.openweathermap.org/data/2.5/weather?lat=49.621247&lon=37.70357&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:vihari, url:http://api.openweathermap.org/data/2.5/weather?lat=30.033333000000002&lon=72.35&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:valeni, url:http://api.openweathermap.org/data/2.5/weather?lat=44.233333&lon=24.783333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:khirkiya, url:http://api.openweathermap.org/data/2.5/weather?lat=22.166667&lon=76.85&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:kunhegyes, url:http://api.openweathermap.org/data/2.5/weather?lat=47.366667&lon=20.633333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:ejura, url:http://api.openweathermap.org/data/2.5/weather?lat=7.383333299999999&lon=-1.3666667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:wote, url:http://api.openweathermap.org/data/2.5/weather?lat=-1.7833332999999998&lon=37.6333333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:udpura, url:http://api.openweathermap.org/data/2.5/weather?lat=24.716667&lon=75.966667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:terpsithea, url:http://api.openweathermap.org/data/2.5/weather?lat=39.6166667&lon=22.3666667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:filimonovo, url:http://api.openweathermap.org/data/2.5/weather?lat=56.201111&lon=95.461111&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:plaine magnien, url:http://api.openweathermap.org/data/2.5/weather?lat=-20.4286111&lon=57.653055599999995&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:uchkent, url:http://api.openweathermap.org/data/2.5/weather?lat=43.114272&lon=47.082547&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:saraikela, url:http://api.openweathermap.org/data/2.5/weather?lat=22.716667&lon=85.95&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:rosiile, url:http://api.openweathermap.org/data/2.5/weather?lat=44.866667&lon=23.933332999999998&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:vladimirescu, url:http://api.openweathermap.org/data/2.5/weather?lat=46.15&lon=21.4&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:sulphur springs, url:http://api.openweathermap.org/data/2.5/weather?lat=33.1383333&lon=-95.6008333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:dunhua, url:http://api.openweathermap.org/data/2.5/weather?lat=43.3725&lon=128.2425&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:kudat, url:http://api.openweathermap.org/data/2.5/weather?lat=6.8837&lon=116.8477&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:anoixis, url:http://api.openweathermap.org/data/2.5/weather?lat=38.1333333&lon=23.85&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:totma, url:http://api.openweathermap.org/data/2.5/weather?lat=59.973749&lon=42.764865&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:el porvenir, url:http://api.openweathermap.org/data/2.5/weather?lat=15.833333300000001&lon=-87.9333333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:moskhokhorion, url:http://api.openweathermap.org/data/2.5/weather?lat=38.8333333&lon=22.45&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:burgos, url:http://api.openweathermap.org/data/2.5/weather?lat=13.9193&lon=121.8122&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:utashinai, url:http://api.openweathermap.org/data/2.5/weather?lat=43.516667&lon=142.05&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:valdosta, url:http://api.openweathermap.org/data/2.5/weather?lat=30.8325&lon=-83.27861109999999&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:seybaplaya, url:http://api.openweathermap.org/data/2.5/weather?lat=19.65&lon=-90.666667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:storsteinnes, url:http://api.openweathermap.org/data/2.5/weather?lat=69.233333&lon=19.233333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:raichur, url:http://api.openweathermap.org/data/2.5/weather?lat=16.2&lon=77.366667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:revda, url:http://api.openweathermap.org/data/2.5/weather?lat=56.800968000000005&lon=59.930278&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:ijero, url:http://api.openweathermap.org/data/2.5/weather?lat=7.8139&lon=5.0742&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:sirisia, url:http://api.openweathermap.org/data/2.5/weather?lat=0.1166667&lon=34.0&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:mersin, url:http://api.openweathermap.org/data/2.5/weather?lat=36.732778&lon=34.644166999999996&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:pupiales, url:http://api.openweathermap.org/data/2.5/weather?lat=0.87136&lon=-77.64026899999999&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:wiener neustadt, url:http://api.openweathermap.org/data/2.5/weather?lat=47.8&lon=16.25&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:dobrun, url:http://api.openweathermap.org/data/2.5/weather?lat=53.18512&lon=34.246245&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:kudinovo, url:http://api.openweathermap.org/data/2.5/weather?lat=54.81763&lon=36.637729&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:dolgoye, url:http://api.openweathermap.org/data/2.5/weather?lat=52.057778000000006&lon=37.533333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:dossenheim, url:http://api.openweathermap.org/data/2.5/weather?lat=49.450278000000004&lon=8.674722000000001&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:tambau, url:http://api.openweathermap.org/data/2.5/weather?lat=-21.7&lon=-47.266667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:batal, url:http://api.openweathermap.org/data/2.5/weather?lat=16.6945&lon=121.5928&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:balakovo, url:http://api.openweathermap.org/data/2.5/weather?lat=51.9284&lon=47.9172&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:pucara, url:http://api.openweathermap.org/data/2.5/weather?lat=-7.517222200000001&lon=-77.84527779999999&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:subirana, url:http://api.openweathermap.org/data/2.5/weather?lat=15.2&lon=-87.45&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:frolishchi, url:http://api.openweathermap.org/data/2.5/weather?lat=56.421772&lon=42.651872999999995&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:kharovsk, url:http://api.openweathermap.org/data/2.5/weather?lat=59.964247&lon=40.19121&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:bogandinskiy, url:http://api.openweathermap.org/data/2.5/weather?lat=56.893749&lon=65.893777&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:pastavy, url:http://api.openweathermap.org/data/2.5/weather?lat=55.1163889&lon=26.833888899999998&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:el ejido, url:http://api.openweathermap.org/data/2.5/weather?lat=36.773804&lon=-2.8165560000000003&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:gdynia, url:http://api.openweathermap.org/data/2.5/weather?lat=54.5&lon=18.55&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:sioux city, url:http://api.openweathermap.org/data/2.5/weather?lat=42.5&lon=-96.4&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:borazjan, url:http://api.openweathermap.org/data/2.5/weather?lat=29.2666&lon=51.2159&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:zemen, url:http://api.openweathermap.org/data/2.5/weather?lat=42.478888899999994&lon=22.7491667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:malabag, url:http://api.openweathermap.org/data/2.5/weather?lat=14.139381&lon=120.967509&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:victoria, url:http://api.openweathermap.org/data/2.5/weather?lat=14.2277&lon=121.3292&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:semkhoz, url:http://api.openweathermap.org/data/2.5/weather?lat=56.283333&lon=38.066666999999995&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:marfino, url:http://api.openweathermap.org/data/2.5/weather?lat=55.702674&lon=37.383217&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:nazareno etla, url:http://api.openweathermap.org/data/2.5/weather?lat=17.171667000000003&lon=-96.800556&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:baraki barak, url:http://api.openweathermap.org/data/2.5/weather?lat=33.9675&lon=68.948611&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:khomutovo, url:http://api.openweathermap.org/data/2.5/weather?lat=52.465832999999996&lon=104.4025&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:neunkirchen, url:http://api.openweathermap.org/data/2.5/weather?lat=49.35&lon=7.183333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:bunesti, url:http://api.openweathermap.org/data/2.5/weather?lat=46.1&lon=25.05&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:portoviejo, url:http://api.openweathermap.org/data/2.5/weather?lat=-1.05&lon=-80.45&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:paitan, url:http://api.openweathermap.org/data/2.5/weather?lat=15.833332999999998&lon=120.733333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:bireun, url:http://api.openweathermap.org/data/2.5/weather?lat=5.202999999999999&lon=96.7009&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:yugo-kamskiy, url:http://api.openweathermap.org/data/2.5/weather?lat=57.703977&lon=55.594265&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:ozatlan, url:http://api.openweathermap.org/data/2.5/weather?lat=13.383333300000002&lon=-88.5&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:domanpot, url:http://api.openweathermap.org/data/2.5/weather?lat=16.0&lon=120.65&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:tsaghkahovit, url:http://api.openweathermap.org/data/2.5/weather?lat=40.6361111&lon=44.2230556&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:cedar falls, url:http://api.openweathermap.org/data/2.5/weather?lat=42.5277778&lon=-92.4452778&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:yellowknife, url:http://api.openweathermap.org/data/2.5/weather?lat=62.45&lon=-114.35&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:caticugan, url:http://api.openweathermap.org/data/2.5/weather?lat=9.1&lon=123.0&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:egypt lake-leto, url:http://api.openweathermap.org/data/2.5/weather?lat=28.016666700000002&lon=-82.4955556&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:kingsville, url:http://api.openweathermap.org/data/2.5/weather?lat=27.515555600000003&lon=-97.8558333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:oslo, url:http://api.openweathermap.org/data/2.5/weather?lat=59.916667000000004&lon=10.75&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:brenham, url:http://api.openweathermap.org/data/2.5/weather?lat=30.1666667&lon=-96.3975&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:pathri, url:http://api.openweathermap.org/data/2.5/weather?lat=19.25&lon=76.45&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:tucumcari, url:http://api.openweathermap.org/data/2.5/weather?lat=35.1716667&lon=-103.7244444&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:petrokhorion, url:http://api.openweathermap.org/data/2.5/weather?lat=41.1166667&lon=24.8333333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:santamaria orlea, url:http://api.openweathermap.org/data/2.5/weather?lat=45.583333&lon=22.966667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:marienberg, url:http://api.openweathermap.org/data/2.5/weather?lat=50.65&lon=13.166667000000002&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:sankt jakob, url:http://api.openweathermap.org/data/2.5/weather?lat=46.547778&lon=14.057222&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:abengourou, url:http://api.openweathermap.org/data/2.5/weather?lat=6.729722&lon=-3.4963889999999997&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:buston, url:http://api.openweathermap.org/data/2.5/weather?lat=40.521666700000004&lon=69.3308333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:ilmajoki, url:http://api.openweathermap.org/data/2.5/weather?lat=62.733332999999995&lon=22.566667000000002&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:corocito, url:http://api.openweathermap.org/data/2.5/weather?lat=15.75&lon=-85.7833333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:fougamou, url:http://api.openweathermap.org/data/2.5/weather?lat=-1.2166667&lon=10.6&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:montclair, url:http://api.openweathermap.org/data/2.5/weather?lat=34.0775&lon=-117.6888889&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:sassenberg, url:http://api.openweathermap.org/data/2.5/weather?lat=52.0&lon=8.05&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:patuli, url:http://api.openweathermap.org/data/2.5/weather?lat=23.55&lon=88.25&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:fuyu, url:http://api.openweathermap.org/data/2.5/weather?lat=47.641389000000004&lon=124.67944399999999&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:santee, url:http://api.openweathermap.org/data/2.5/weather?lat=32.838333299999995&lon=-116.97305559999998&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:weinheim, url:http://api.openweathermap.org/data/2.5/weather?lat=49.548333&lon=8.666111&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:san agustin, url:http://api.openweathermap.org/data/2.5/weather?lat=13.433333300000001&lon=-88.6&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:cruzeiro do sul, url:http://api.openweathermap.org/data/2.5/weather?lat=-7.633333&lon=-72.6&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:hemnes, url:http://api.openweathermap.org/data/2.5/weather?lat=59.716667&lon=11.466667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:kilembe, url:http://api.openweathermap.org/data/2.5/weather?lat=0.2&lon=30.0&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:mozzozzin, url:http://api.openweathermap.org/data/2.5/weather?lat=17.45&lon=121.75&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:umm jarr, url:http://api.openweathermap.org/data/2.5/weather?lat=13.816666699999999&lon=32.4&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:montijo, url:http://api.openweathermap.org/data/2.5/weather?lat=38.706747&lon=-8.973885000000001&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:ardmore, url:http://api.openweathermap.org/data/2.5/weather?lat=40.006666700000004&lon=-75.2858333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:diadi, url:http://api.openweathermap.org/data/2.5/weather?lat=16.662&lon=121.3658&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:witney, url:http://api.openweathermap.org/data/2.5/weather?lat=51.783333&lon=-1.483333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:khanpur, url:http://api.openweathermap.org/data/2.5/weather?lat=28.645338&lon=70.656702&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:mascote, url:http://api.openweathermap.org/data/2.5/weather?lat=-15.55&lon=-39.283333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:rio grande, url:http://api.openweathermap.org/data/2.5/weather?lat=-32.033333&lon=-52.083333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:dorokhovo, url:http://api.openweathermap.org/data/2.5/weather?lat=55.55055600000001&lon=36.374444&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:staraya poltavka, url:http://api.openweathermap.org/data/2.5/weather?lat=50.477148&lon=46.481443&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:yuni, url:http://api.openweathermap.org/data/2.5/weather?lat=13.4124&lon=122.4846&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:brockton, url:http://api.openweathermap.org/data/2.5/weather?lat=42.0833333&lon=-71.01888890000001&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:lumbayao, url:http://api.openweathermap.org/data/2.5/weather?lat=8.016667&lon=125.16666699999999&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:goundam, url:http://api.openweathermap.org/data/2.5/weather?lat=16.4166667&lon=-3.6666667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:holstebro, url:http://api.openweathermap.org/data/2.5/weather?lat=56.359471&lon=8.620799&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:jalali, url:http://api.openweathermap.org/data/2.5/weather?lat=27.866667&lon=78.266667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:druzhnaya gorka, url:http://api.openweathermap.org/data/2.5/weather?lat=59.276111&lon=30.1425&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:raseiniai, url:http://api.openweathermap.org/data/2.5/weather?lat=55.373611100000005&lon=23.1216667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:lobito, url:http://api.openweathermap.org/data/2.5/weather?lat=-12.319722&lon=13.599722&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:sakaraha, url:http://api.openweathermap.org/data/2.5/weather?lat=-22.9&lon=44.533333299999995&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:satchinez, url:http://api.openweathermap.org/data/2.5/weather?lat=45.9375&lon=21.040556&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:poroshkovo, url:http://api.openweathermap.org/data/2.5/weather?lat=48.668316&lon=22.753276&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:tlaixpan, url:http://api.openweathermap.org/data/2.5/weather?lat=18.9&lon=-97.733333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:ciudad guayana, url:http://api.openweathermap.org/data/2.5/weather?lat=8.3533333&lon=-62.652777799999996&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:san josecito, url:http://api.openweathermap.org/data/2.5/weather?lat=10.016667&lon=-84.1&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:ateptsevo, url:http://api.openweathermap.org/data/2.5/weather?lat=55.323643000000004&lon=36.750015999999995&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:beltiug, url:http://api.openweathermap.org/data/2.5/weather?lat=47.55&lon=22.85&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:petric, url:http://api.openweathermap.org/data/2.5/weather?lat=41.4&lon=23.216666699999998&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:cabanbanan, url:http://api.openweathermap.org/data/2.5/weather?lat=10.0852&lon=122.9579&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:teculutan, url:http://api.openweathermap.org/data/2.5/weather?lat=14.983332999999998&lon=-89.716667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:contla, url:http://api.openweathermap.org/data/2.5/weather?lat=19.197222&lon=-98.2&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:voka, url:http://api.openweathermap.org/data/2.5/weather?lat=59.39972220000001&lon=27.581666700000003&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:magrath, url:http://api.openweathermap.org/data/2.5/weather?lat=49.416667&lon=-112.88333300000001&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:neyveli, url:http://api.openweathermap.org/data/2.5/weather?lat=11.533333&lon=79.483333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:ballinrobe, url:http://api.openweathermap.org/data/2.5/weather?lat=53.6333333&lon=-9.233333300000002&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:starodub, url:http://api.openweathermap.org/data/2.5/weather?lat=52.584444&lon=32.763333&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:gogosari, url:http://api.openweathermap.org/data/2.5/weather?lat=43.866667&lon=25.7&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:dorolt, url:http://api.openweathermap.org/data/2.5/weather?lat=47.85&lon=22.816667000000002&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:aluksne, url:http://api.openweathermap.org/data/2.5/weather?lat=57.4166667&lon=27.05&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:santiago de maria, url:http://api.openweathermap.org/data/2.5/weather?lat=13.483333300000002&lon=-88.4666667&appid=adabf952ce676f5038cb9a0e2556e9c9
+City:sabang, url:http://api.openweathermap.org/data/2.5/weather?lat=14.0614&lon=120.708&appid=adabf952ce676f5038cb9a0e2556e9c9
